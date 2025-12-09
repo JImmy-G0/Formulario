@@ -10,7 +10,7 @@ Pagina do painel: Pagina onde é exibido em formato de graficos e cards as infor
 Pagina de cadastro de alunos: Pagina onde é possivel cadastrar alunos de uma instituição com campos de informações pessoais, de responsavel e da instituição.
 <img width="1920" height="881" alt="Screenshot 2025-12-09 at 14-10-49 Cadastro" src="https://github.com/user-attachments/assets/7f1c84bc-c7e4-4bce-95d2-70142fff0052" />
 
-Pagina de ixibir em lista os alunos: Pagina onde é exibido em lista os alunos e suas informações em ordem alfabetica, tendo botões de "editar" onde é possivel editar as informações dos alunos, e "excluir" onde exclui um aluno e suas informações do banco e formulario.
+Pagina de ixibir em lista os alunos: Pagina onde é exibido em lista os alunos e suas informações em ordem alfabetica, tendo uma barra de pesquisa por nome dos alunos e botões de "editar" onde é possivel editar as informações dos alunos, e "excluir" onde exclui um aluno e suas informações do banco e formulario.
 <img width="1920" height="881" alt="Screenshot 2025-12-09 at 14-11-14 Listagem de Alunos" src="https://github.com/user-attachments/assets/f9eb827a-e266-4ef2-b2e0-a16593e40ad7" />
 
 Pagina de Editar as informações dos alunos: Pagina onde é possivel editar as informações de um aluno escolhido na pagina da lista.
