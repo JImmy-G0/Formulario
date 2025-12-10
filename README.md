@@ -1,5 +1,11 @@
-O sistema é desenvolvido em PHP e utiliza MySQL para armazenamento dos dados. Cada arquivo PHP desempenha uma função específica dentro do fluxo de cadastro, edição, login e gerenciamento dos alunos.
-Breve resumo dos arquivos:
+Este projeto é um sistema simples de cadastro, edição, listagem e exclusão de alunos, desenvolvido em PHP, utilizando MySQL para armazenamento de dados e Bootstrap 5 na interface.
+
+Tecnologias Utilizadas:
+-PHP
+-MySQL
+-Bootstrap 5
+
+Estrutura e explicação dos arquivos do projeto:
 -Conexao.php:
 Este arquivo é responsável por criar a conexão com o banco de dados MySQL. Nele são definidos os parâmetros de acesso (host, usuário, senha e nome do banco) e gerada a variável $conexao, utilizada por todo o sistema para a execução das consultas SQL.
 
