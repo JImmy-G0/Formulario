@@ -3,7 +3,7 @@ Este projeto é um sistema simples de cadastro, edição, listagem e exclusão d
 Tecnologias Utilizadas:
 -PHP
 -MySQL
--Bootstrap 5
+-Bootstrap 5                                        
 
 Estrutura e explicação dos arquivos do projeto:
 -Conexao.php:
