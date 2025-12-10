@@ -1,6 +1,6 @@
 Este projeto é um sistema simples de cadastro, edição, listagem e exclusão de alunos, desenvolvido em PHP, utilizando MySQL para armazenamento de dados e Bootstrap 5 na interface.
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas:                                
 -PHP                      
 -MySQL                                   
 -Bootstrap 5
