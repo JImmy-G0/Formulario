@@ -1,11 +1,11 @@
 Este projeto é um sistema simples de cadastro, edição, listagem e exclusão de alunos, desenvolvido em PHP, utilizando MySQL para armazenamento de dados e Bootstrap 5 na interface. 
 As funcionalidades do projeto são:                          
-- Login e logout de usuários                             
-- Registro de novos usuários                              
+-Login e logout de usuários                             
+-Registro de novos usuários                              
 - Cadastro de alunos com dados pessoais e endereço                         
-- Edição de dados dos alunos                             
-- Exclusão de alunos                                         
-- Listagem de todos os alunos cadastrados                                     
+-Edição de dados dos alunos                             
+-Exclusão de alunos                                         
+-Listagem de todos os alunos cadastrados                                     
 
 
 Tecnologias Utilizadas:                                
