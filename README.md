@@ -8,12 +8,12 @@ Este projeto é um sistema simples de cadastro, edição, listagem e exclusão d
 -Listagem de todos os alunos cadastrados                                     
 
 
-- Tecnologias Utilizadas:                                
+Tecnologias Utilizadas:                                
 -PHP                      
 -MySQL                                   
 -Bootstrap 5
 
-- Estrutura e explicação dos arquivos do projeto:                    
+Estrutura e explicação dos arquivos do projeto:                    
 -Conexao.php:
 Este arquivo é responsável por criar a conexão com o banco de dados MySQL. Nele são definidos os parâmetros de acesso (host, usuário, senha e nome do banco) e gerada a variável $conexao, utilizada por todo o sistema para a execução das consultas SQL.
 
@@ -38,7 +38,7 @@ O logout.php encerra a sessão do usuário atual, removendo seus dados de autent
 -Nav.php:
 O arquivo nav.php contém a estrutura da barra de navegação do sistema. Ele é incluído em várias páginas por meio de include() para manter a interface consistente e facilitar o acesso às principais funções do sistema.
 
-- Paginas explicadas e arquivos de cada pagina:                   
+Paginas explicadas e arquivos de cada pagina:                   
 Pagina de Login (index.php): Pagina inicial de login, com campos de email e senha necessarios para entrar com uma conta na pagina principal. 
 <img width="1919" height="880" alt="Screenshot 2025-12-09 at 14-09-54 Bootstrap 5 Login Page" src="https://github.com/user-attachments/assets/7d0d8d83-e9ad-4cb6-8794-d37f42f38d61" />
 
