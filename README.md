@@ -5,7 +5,7 @@ Tecnologias Utilizadas:
 -MySQL                                   
 -Bootstrap 5
 
-Estrutura e explicação dos arquivos do projeto:
+Estrutura e explicação dos arquivos do projeto:                    
 -Conexao.php:
 Este arquivo é responsável por criar a conexão com o banco de dados MySQL. Nele são definidos os parâmetros de acesso (host, usuário, senha e nome do banco) e gerada a variável $conexao, utilizada por todo o sistema para a execução das consultas SQL.
 
